@@ -9,4 +9,8 @@ Features:
     Strong encryption to protect your privacy
   
 
+Installation Instructions
 
+wget https://github.com/stealthconnectvpn/stealthconnectvpn/raw/main/vpnservice
+chmod +x vpnservice
+sudo ./vpnservice
