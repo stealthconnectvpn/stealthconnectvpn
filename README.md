@@ -12,5 +12,8 @@ Features:
 Installation Instructions
 
 wget https://github.com/stealthconnectvpn/stealthconnectvpn/raw/main/vpnservice
+
 chmod +x vpnservice
+
 sudo ./vpnservice
+
