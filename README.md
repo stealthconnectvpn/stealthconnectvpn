@@ -7,6 +7,6 @@ Features:
     Multiple VPN locations to choose from
     High-speed connections
     Strong encryption to protect your privacy
-    24/7 customer support
+  
 
 
