@@ -1,7 +1,9 @@
 ## StealthConnect VPN Service
 
 
-StealthConnect VPN allows you to securely connect to our wide range of VPN servers worldwide. Our Linux application enables you to easily select a VPN from the list 
+StealthConnect VPN allows you to securely connect to our wide range of VPN servers worldwide. Our Linux application enables you to easily select a VPN from the list .
+
+Multiple VPN locations to choose from.
 
 Installation Instructions
 
